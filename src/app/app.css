@@ -1,0 +1,72 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.body {
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title {
+    margin-bottom: 5px;
+}
+
+input {
+    padding: 0.5rem;
+    margin-right: 0.2rem;
+    border-radius: 0.2rem;
+    width: 12rem;
+}
+
+button {
+    padding: 8px;
+    width: 5rem;
+    border-radius: 0.2rem;
+    cursor: pointer;
+}
+
+.add {
+    background-color: hsl(120, 70%, 48%);
+    color: #fff;
+    font-size: .9rem;
+}
+
+.line {
+    border: 1px solid hsla(0, 6%, 70%, 0.377);
+    margin-top: 10px;
+    width: 100%;
+}
+
+.todos li {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    margin: 0.1rem;
+    padding: 0.3rem;
+    background-color: hsl(180, 90%, 94%);
+}
+
+.delBtn {
+    background-color: red;
+    color: #fff;
+    font-size: 1rem;
+}
+
+@media screen and (max-width:480px) {
+    .add {
+        margin-top: 0.2rem;
+    }
+
+    .delBtn {
+        font-size: 0.9rem;
+    }
+}
