@@ -22,7 +22,7 @@
 
 <li>State Management: Angular Signals</li>
 
-<li>Styling: Custom CSS3 (Flexbox/Grid)</li>
+<li>Styling: Custom CSS3 (Flexbox)</li>
 
 <li>Deployment: Vercel</li>
 
