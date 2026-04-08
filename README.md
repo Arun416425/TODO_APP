@@ -1,59 +1,31 @@
-# TodoApp
+#🚀 Angular Todo App
+A sleek, lightweight, and fully responsive Todo application built with Angular 19 (using Signals) and custom CSS. This project demonstrates modern Angular state management and persistent data storage.
 
-This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 21.2.6.
+🔗 Live Demo on Vercel
 
-## Development server
+✨ Features
+Signals-Powered: Leverages Angular Signals for reactive, high-performance state updates.
 
-To start a local development server, run:
+Persistent Storage: Uses LocalStorage to ensure your tasks stay saved even after a page refresh.
 
-```bash
-ng serve
-```
+Fully Responsive: Hand-crafted CSS (no heavy frameworks) ensuring a seamless experience on mobile, tablet, and desktop.
 
-Once the server is running, open your browser and navigate to `http://localhost:4200/`. The application will automatically reload whenever you modify any of the source files.
+Smart Interactions: * Add tasks with validation.
 
-## Code scaffolding
+Toggle completion status.
 
-Angular CLI includes powerful code scaffolding tools. To generate a new component, run:
+Delete individual tasks.
 
-```bash
-ng generate component component-name
-```
+Interactive UI feedback.
 
-For a complete list of available schematics (such as `components`, `directives`, or `pipes`), run:
+🛠️ Tech Stack
+Framework: Angular
 
-```bash
-ng generate --help
-```
+State Management: Angular Signals
 
-## Building
+Styling: Custom CSS3 (Flexbox/Grid)
 
-To build the project run:
+Deployment: Vercel
 
-```bash
-ng build
-```
-
-This will compile your project and store the build artifacts in the `dist/` directory. By default, the production build optimizes your application for performance and speed.
-
-## Running unit tests
-
-To execute unit tests with the [Vitest](https://vitest.dev/) test runner, use the following command:
-
-```bash
-ng test
-```
-
-## Running end-to-end tests
-
-For end-to-end (e2e) testing, run:
-
-```bash
-ng e2e
-```
-
-Angular CLI does not come with an end-to-end testing framework by default. You can choose one that suits your needs.
-
-## Additional Resources
-
+Storage: Browser LocalStorage API
 For more information on using the Angular CLI, including detailed command references, visit the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
