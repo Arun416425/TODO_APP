@@ -15,7 +15,7 @@
 
 #### Delete individual tasks.
 
-### Interactive UI feedback.
+#### Interactive UI feedback.
 
 # 🛠️ Tech Stack
 <li>Framework: Angular</li>
