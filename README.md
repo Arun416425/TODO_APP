@@ -13,7 +13,7 @@
 
 <li>Toggle completion status.</li>
 
-#### Delete individual tasks.
+<li>Delete individual tasks.</li>
 
 #### Interactive UI feedback.
 
