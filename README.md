@@ -7,7 +7,7 @@
 
 <li>Persistent Storage: Uses LocalStorage to ensure your tasks stay saved even after a page refresh.</li>
 
-#### Fully Responsive: Hand-crafted CSS (no heavy frameworks) ensuring a seamless experience on mobile, tablet, and desktop.
+<li>Fully Responsive: Hand-crafted CSS (no heavy frameworks) ensuring a seamless experience on mobile, tablet, and desktop.</li>
 
 #### Smart Interactions: * Add tasks with validation.
 
