@@ -5,7 +5,7 @@
 # ✨ Features
 <li>Signals-Powered: Leverages Angular Signals for reactive, high-performance state updates.</li>
 
-#### Persistent Storage: Uses LocalStorage to ensure your tasks stay saved even after a page refresh.
+<li>Persistent Storage: Uses LocalStorage to ensure your tasks stay saved even after a page refresh.</li>
 
 #### Fully Responsive: Hand-crafted CSS (no heavy frameworks) ensuring a seamless experience on mobile, tablet, and desktop.
 
