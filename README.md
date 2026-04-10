@@ -11,7 +11,7 @@
 
 #### Smart Interactions: * Add tasks with validation.
 
-### Toggle completion status.
+#### Toggle completion status.
 
 ### Delete individual tasks.
 
