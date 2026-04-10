@@ -9,7 +9,7 @@
 
 <li>Fully Responsive: Hand-crafted CSS (no heavy frameworks) ensuring a seamless experience on mobile, tablet, and desktop.</li>
 
-#### Smart Interactions: * Add tasks with validation.
+<li>Smart Interactions: * Add tasks with validation.</li>
 
 #### Toggle completion status.
 
