@@ -2,7 +2,7 @@
 
 <li>A sleek, lightweight, and fully responsive Todo application built with Angular 19 (using Signals) and custom CSS. This project demonstrates modern Angular state management and persistent data storage.</li>
 
-# ✨ Features
+ **✨ Features**
 <li>Signals-Powered: Leverages Angular Signals for reactive, high-performance state updates.</li>
 
 <li>Persistent Storage: Uses LocalStorage to ensure your tasks stay saved even after a page refresh.</li>
