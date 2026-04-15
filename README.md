@@ -1,4 +1,4 @@
-<h1>🚀Angular Todo ApP</h1>
+<h1>🚀Angular Todo App</h1>
 
 <li>A sleek, lightweight, and fully responsive Todo application built with Angular 19 (using Signals) and custom CSS. This project demonstrates modern Angular state management and persistent data storage.</li>
 
